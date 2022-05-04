@@ -1,11 +1,11 @@
-import type { NextPage } from 'next'
+import type { NextPage } from 'next';
 
 const Home: NextPage = () => {
   return (
     <>
       <h1>Olá Mundo!</h1>
     </>
-  )
+  );
 }
 
-export default Home
+export default Home;
